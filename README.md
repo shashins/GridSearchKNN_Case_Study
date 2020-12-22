@@ -1,1 +1,1 @@
-# GridSearchKNN_Case_Study
+# GridSearchKNN Case Study
